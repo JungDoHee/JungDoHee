@@ -6,4 +6,6 @@
 />
 </a>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungDoHee&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungDoHee&layout=donut" />
+</a>
